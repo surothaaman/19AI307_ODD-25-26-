@@ -1,6 +1,6 @@
 # Ex.No:1(B) CONDITIONAL STATEMENT
 
-##QUESTION:
+## QUESTION:
 
 
 ## AIM:
@@ -37,3 +37,4 @@ RegisterNumber:
 
 
 ## RESULT:
+
